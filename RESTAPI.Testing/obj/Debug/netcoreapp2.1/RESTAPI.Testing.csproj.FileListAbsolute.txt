@@ -1,0 +1,17 @@
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.Testing.deps.json
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.Testing.runtimeconfig.json
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.Testing.runtimeconfig.dev.json
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.Testing.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.csprojAssemblyReference.cache
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.csproj.CoreCompileInputs.cache
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.AssemblyInfoInputs.cache
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.AssemblyInfo.cs
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.Testing.pdb
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\bin\Debug\netcoreapp2.1\RESTAPI.pdb
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.csproj.CopyComplete
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.dll
+D:\Documents\learning\RESTAPI\RESTAPI.Testing\obj\Debug\netcoreapp2.1\RESTAPI.Testing.pdb

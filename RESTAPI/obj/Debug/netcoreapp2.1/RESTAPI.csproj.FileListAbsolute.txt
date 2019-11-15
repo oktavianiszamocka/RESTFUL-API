@@ -1,0 +1,14 @@
+D:\Documents\learning\RESTAPI\RESTAPI\bin\Debug\netcoreapp2.1\RESTAPI.deps.json
+D:\Documents\learning\RESTAPI\RESTAPI\bin\Debug\netcoreapp2.1\RESTAPI.runtimeconfig.json
+D:\Documents\learning\RESTAPI\RESTAPI\bin\Debug\netcoreapp2.1\RESTAPI.runtimeconfig.dev.json
+D:\Documents\learning\RESTAPI\RESTAPI\bin\Debug\netcoreapp2.1\RESTAPI.dll
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.csprojAssemblyReference.cache
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.csproj.CoreCompileInputs.cache
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.RazorAssemblyInfo.cache
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.RazorAssemblyInfo.cs
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.AssemblyInfoInputs.cache
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.AssemblyInfo.cs
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.RazorTargetAssemblyInfo.cache
+D:\Documents\learning\RESTAPI\RESTAPI\bin\Debug\netcoreapp2.1\RESTAPI.pdb
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.dll
+D:\Documents\learning\RESTAPI\RESTAPI\obj\Debug\netcoreapp2.1\RESTAPI.pdb
